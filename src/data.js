@@ -2,6 +2,22 @@
 // Data is validated against the following schema https://github.com/wesbos/awesome-uses/blob/master/scripts/utils.js#L53-L68
 module.exports = [
   {
+    name: 'Justin De Leon',
+    description: 'Coding, video games, and pizza',
+    url: 'https://jusdeleon.vercel.app/uses',
+    twitter: '@jusdeleon_dev',
+    emoji: '🤓',
+    country: '🇵🇭',
+    computer: 'apple',
+    phone: 'iphone',
+    tags: [
+      'PHP',
+      'Laravel',
+      'CSS',
+      'JavaScript'
+    ],
+  },
+  {
     name: 'Salma Alam-Naylor',
     description: 'Live coding streamer, writer and speaker',
     url: 'https://whitep4nth3r.com/uses',
